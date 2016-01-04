@@ -1,0 +1,10 @@
+{
+  "applications": {
+    "_default": {
+      "link": "newsapp"
+    },
+    "newsapp": {
+      "applicationId": "cHRcHDzH7O44qFoePp4e1BSfBgaj4iFBmLYUq8rs"
+    }
+  }
+}
